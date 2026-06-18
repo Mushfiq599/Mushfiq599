@@ -40,11 +40,16 @@ My focus is on writing clean code, solving real-world problems, and continuously
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/><br>JavaScript
     </td>
     <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/><br>TypeScript
+    </td>
+    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/><br>React
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"/><br>Next.js
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48"/><br>Tailwind CSS
     </td>
@@ -59,8 +64,8 @@ My focus is on writing clean code, solving real-world problems, and continuously
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/><br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48"/><br>Express.js
-    </td>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" height="36"/><br>Express.js
+</td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/><br>MongoDB
     </td>
@@ -78,14 +83,14 @@ My focus is on writing clean code, solving real-world problems, and continuously
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/><br>GitHub
-    </td>
+  <img src="https://img.shields.io/badge/GitHub-ffffff?style=flat-square&logo=github&logoColor=black" height="36"/><br>GitHub
+</td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/><br>VS Code
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="48"/><br>Vercel
-    </td>
+  <img src="https://img.shields.io/badge/Vercel-ffffff?style=flat-square&logo=vercel&logoColor=black" height="36"/><br>Vercel
+</td>
     <td align="center" width="96">
       <img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" width="48"/><br>Render
     </td>
