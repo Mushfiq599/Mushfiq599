@@ -6,9 +6,9 @@
 
 <div align="center">
 
-[![Location](https://img.shields.io/badge/📍_Bangladesh-0f0c29?style=for-the-badge&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/📧_your@email.com-0f0c29?style=for-the-badge&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-7c3aed?style=for-the-badge&logoColor=white)](https://your-portfolio.vercel.app)
+[![Location](https://img.shields.io/badge/📍_Bangladesh-0f0c29?style=for-the-badge&logoColor=white)](https://github.com/Mushfiq599)
+[![Email](https://img.shields.io/badge/📧_your@email.com-0f0c29?style=for-the-badge&logoColor=white)](mailto:mellowm678@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-7c3aed?style=for-the-badge&logoColor=white)](https://mushfiq-s-portfolio.vercel.app)
 
 </div>
 
@@ -98,11 +98,11 @@ I'm a passionate **Full-Stack Web Developer** from Bangladesh who loves building
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mush-fiq)
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MushFiq72288867)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://mushfiq-s-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mellowm678@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mushfiq599)
 
 </div>
 
