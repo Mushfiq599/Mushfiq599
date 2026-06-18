@@ -22,7 +22,7 @@ I specialize in building complete, production-ready web applications — from re
 I've built and deployed platforms like **GadgetHub** (tech gadget marketplace), **TaskNova** (micro-task & earning platform), and **StyleDecor** (booking platform) — all featuring role-based auth, real payment flows, and live deployments.  
 My focus is on writing clean code, solving real-world problems, and continuously improving through hands-on projects.
 
-📧 Reach me at: **your@email.com**
+📧 Reach me at: **mellowm678@gmail.com**
 
 ---
 
