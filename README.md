@@ -7,7 +7,7 @@
 <div align="center">
 
 [![Location](https://img.shields.io/badge/📍_Bangladesh-0f0c29?style=for-the-badge&logoColor=white)](https://github.com/Mushfiq599)
-[![Email](https://img.shields.io/badge/📧_your@email.com-0f0c29?style=for-the-badge&logoColor=white)](mailto:mellowm678@gmail.com)
+[![Email](https://img.shields.io/badge/📧_@Email.com-0f0c29?style=for-the-badge&logoColor=white)](mailto:mellowm678@gmail.com)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-7c3aed?style=for-the-badge&logoColor=white)](https://mushfiq-s-portfolio.vercel.app)
 
 </div>
